@@ -1,9 +1,13 @@
 # Hi I'm Mohamad Moradi 👋
 
-Backend Developer | Computer Engineering Student
+💻 Backend Developer | 🎓 Computer Engineering Student
 
 - 🌍 Based in Tehran 
 - 💡 Focused on building and developing backend with PHP, Laravel
+
+
+- ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
+
 
 ### Technologies & Tools
 
@@ -18,6 +22,17 @@ Backend Developer | Computer Engineering Student
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
+
+
 ### GitHub Insights
 
 ![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=dark)
+
+
+![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamadmoradi138383@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moradi_x)
