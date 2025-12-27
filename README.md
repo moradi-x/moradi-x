@@ -36,11 +36,12 @@
 
 
 
-### GitHub Insights
+### 📊 GitHub Insights
 
-![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moradi-x&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=moradi-x&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moradi-x&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moradi-x&layout=compact&theme=dark)
 
 
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
