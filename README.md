@@ -40,10 +40,6 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moradi-x&theme=github_dark)
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moradi-x&theme=github_dark)
-
-
-
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
 
 
