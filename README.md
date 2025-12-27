@@ -14,7 +14,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 <br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -41,7 +41,7 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moradi-x&theme=github_dark)
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moradi-x&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moradi-x&theme=github_dark)
+
 
 
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
