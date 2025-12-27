@@ -39,9 +39,10 @@
 ### 📊 GitHub Insights
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moradi-x&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=moradi-x&theme=dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moradi-x&theme=github-dark)
 
+![Streak](https://streak-stats.demolab.com?user=moradi-x&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=moradi-x&theme=dark&hide_border=true)
 
 
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
