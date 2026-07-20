@@ -66,7 +66,8 @@ Islamic Azad University, Tehran
 
 ### 📊 GitHub Insights
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moradi-x&theme=github-dark-blue&hide_border=true)](https://github.com/moradi-x)
+![Moradi-x's GitHub stats](https://github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ### 🌐 Connect With Me
 
