@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Mohamad Moradi 👋
 
 ### Backend Developer | PHP & Laravel
@@ -178,8 +177,6 @@ Worked with Laravel to develop backend features and gained practical experience 
 </a>
 
 </p>
-
----
 
 ⭐ Thanks for visiting my profile!
 ```
