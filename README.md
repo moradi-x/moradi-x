@@ -34,6 +34,7 @@ I enjoy working with backend technologies, databases, and continuously growing a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -66,8 +67,7 @@ Islamic Azad University, Tehran
 
 ### 📊 GitHub Insights
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moradi-x&theme=github_dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=github_dark)
 ### 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadmoradi138383@gmail.com)
