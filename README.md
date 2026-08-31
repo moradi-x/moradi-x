@@ -67,24 +67,25 @@ Islamic Azad University, Tehran
 
 ### 📊 GitHub Insights
 
-## 📊 GitHub Stats
-
 <table align="center" width="100%">
   <tr>
-    <td width="70%" align="center">
+    <td width="50%" align="center">
       <img
         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=github_dark&hide_border=true"
         width="100%"
       />
     </td>
-    <td width="70%" align="center">
+    <td width="50%" align="center">
       <img
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moradi-x&layout=pie&theme=github_dark&hide_border=true"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moradi-x&layout=compact&langs_count=6&theme=github_dark&hide_border=true"
         width="100%"
       />
     </td>
   </tr>
 </table>
+
+
+--- 
 ### 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadmoradi138383@gmail.com)
