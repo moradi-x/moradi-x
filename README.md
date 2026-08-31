@@ -67,7 +67,7 @@ Islamic Azad University, Tehran
 
 ### 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=moradi-x&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moradi-x&show_icons=true&theme=github_dark)
 ### 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadmoradi138383@gmail.com)
