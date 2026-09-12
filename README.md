@@ -54,7 +54,7 @@ Eloquent ORM · Migrations · Seeders · Blade · Policies · Pagination · File
 - **[Laravel Clothing Store](https://github.com/moradi-x/Laravel_Clothing_Store)**  
   Clothing and apparel e-commerce store.
 
-- **[Laravel Blog )](https://github.com/moradi-x/project-laravel)**  
+- **[Laravel Blog ](https://github.com/moradi-x/project-laravel)**  
   A full-featured blog system with REST API, Authentication, CRUD, Queue, Search, Pagination, and File Upload.
 
 - **[Tiny MVC](https://github.com/moradi-x/Tiny-MVC)**  
