@@ -1,17 +1,19 @@
 # Hi I'm Mohamad Moradi 👋
 
-💻 Backend Developer | 🎓 Computer Engineering Student
+💻 Backend Developer | 🏢 Founder of Studio Moradix | 🎓 Computer Engineering
 
-- 🌍 Based in Tehran  
-- 💡 Focused on building reliable web applications with PHP, Laravel  
-- 🚀 Always learning and improving backend development skills  
+- 🌍 Based in Tehran
+- 🚀 Founder of **Studio Moradix**, a freelance software development studio
+- 💼 Accepting freelance projects and collaborations
+- 💡 Focused on building reliable web applications with PHP & Laravel
 
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
 
 ### 🧑‍💻 About Me
 
-Junior Backend Developer passionate about learning, writing clean code, and building robust web applications.  
-I enjoy working with backend technologies, databases, and continuously growing as a software engineer.
+Backend Developer and founder of **Studio Moradix**, a freelance software development studio focused on building modern and reliable web applications.
+
+I specialize in backend development with PHP and Laravel, and I work on freelance projects, custom web applications, REST APIs, and business solutions.
 
 ---
 
@@ -46,6 +48,12 @@ Eloquent ORM · Migrations · Seeders · Blade · Policies · Pagination · File
 
 ### 📁 Projects
 
+- **[Studio Moradix Website](https://github.com/moradi-x/Studio_Moradix_Website)**  
+  Official website of my freelance software development studio.
+
+- **[Laravel Clothing Store](https://github.com/moradi-x/Laravel_Clothing_Store)**  
+  Clothing and apparel e-commerce store.
+
 - **[Blog Management System (Laravel)](https://github.com/moradi-x/project-laravel)**  
   A full-featured blog system with REST API, Authentication, CRUD, Queue, Search, Pagination, and File Upload.
 
@@ -57,11 +65,25 @@ Eloquent ORM · Migrations · Seeders · Blade · Policies · Pagination · File
 
 ---
 
+### 🏢 Studio Moradix
+
+**Studio Moradix** is my freelance software development studio.
+
+💼 **Freelance Web Development & Software Solutions**
+
+🚀 Custom Websites · Web Applications · REST APIs · Laravel Development
+
+📩 **Available for freelance projects & collaborations**
+
+📱 **Telegram:** [@studio_moradix](https://t.me/studio_moradix)
+
+---
+
 ### 🎓 Education
 
 **Bachelor of Computer Engineering**  
 Islamic Azad University, Tehran  
-*2023 – Present*
+*2023 – 2026*
 
 ---
 
@@ -84,10 +106,11 @@ Islamic Azad University, Tehran
   </tr>
 </table>
 
+---
 
---- 
 ### 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadmoradi138383@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moradi_x)
+[![Studio Moradix](https://img.shields.io/badge/Studio_Moradix-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/studio_moradix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-moradix)
